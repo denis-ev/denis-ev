@@ -15,20 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [VivumLab](https://vivumlab.com)
 - 📚 I’m currently learning ... yeah, this never ends.
-- 🤔 I’m looking for help with [VivumLab](https://vivumlab.com)
 
 ---
 
 ### Current Projects 🗂
 
-<a href="https://github.com/VivumLab/VivumLab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VivumLab&repo=VivumLab&theme=radical&show_owner=true&hide_border=true">
-</a>
-<a href="https://github.com/VivumLab/docker-docusaurus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VivumLab&repo=docker-docusaurus&theme=radical&show_owner=true&hide_border=true">
-</a>
+None
 
 ---
 
